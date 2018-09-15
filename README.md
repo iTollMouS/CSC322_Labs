@@ -1,4 +1,4 @@
-# CSC322_Labs
+# CSC322_Labs Disclaimer 
 Disclaimer 
 We are not responsible if you get an F in your labs because you copied them . 
 If you wish to copy it , please give us credits for our work . 
